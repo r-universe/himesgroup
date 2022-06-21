@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "snpsettest"]
+	path = snpsettest
+	url = https://github.com/himesgroup/snpsettest
+	shallow = true
+	registered = true
