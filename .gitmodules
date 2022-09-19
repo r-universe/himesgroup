@@ -8,8 +8,3 @@
 	url = https://github.com/himesgroup/snpsettest
 	shallow = true
 	registered = true
-[submodule "qmtools"]
-	path = qmtools
-	url = https://github.com/himesgroup/qmtools
-	shallow = true
-	registered = true
