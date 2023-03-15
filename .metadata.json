@@ -1,9 +1,9 @@
 [
   {
-    "package": "snpsettest",
-    "oncran": true
+    "package": "qmtools"
   },
   {
-    "package": "qmtools"
+    "package": "snpsettest",
+    "oncran": true
   }
 ]
