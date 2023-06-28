@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "qmtools"]
 	path = qmtools
 	url = https://github.com/himesgroup/qmtools
-	shallow = true
-	registered = true
 [submodule "snpsettest"]
 	path = snpsettest
 	url = https://github.com/himesgroup/snpsettest
-	shallow = true
-	registered = true
