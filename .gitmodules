@@ -5,6 +5,9 @@
 [submodule "qmtools"]
 	path = qmtools
 	url = https://github.com/himesgroup/qmtools
+[submodule "raqs"]
+	path = raqs
+	url = https://github.com/himesgroup/raqs
 [submodule "snpsettest"]
 	path = snpsettest
 	url = https://github.com/himesgroup/snpsettest
