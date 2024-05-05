@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "qmtools"]
-	path = qmtools
-	url = https://github.com/himesgroup/qmtools
 [submodule "raqs"]
 	path = raqs
 	url = https://github.com/himesgroup/raqs
